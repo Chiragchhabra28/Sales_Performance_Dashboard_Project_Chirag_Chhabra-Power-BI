@@ -1,0 +1,20 @@
+Project Title: Sales Performance Dashboard
+
+Candidate Name: Chirag Chhabra
+
+Description:
+This project analyzes sales lead performance using a dashboard and a one-page report.
+It covers lead generation, conversion trends, revenue contribution, and key insights
+along with basic recommendations.
+
+Tools Used:
+- Power BI
+
+Contents:
+1. Report: One-page summary of insights and recommendations
+2. Dashboard: Interactive sales performance dashboard
+3. Dataset: Source data used for analysis
+
+
+Purpose:
+Submitted as part of the evaluation process for the Data Analyst Intern role.

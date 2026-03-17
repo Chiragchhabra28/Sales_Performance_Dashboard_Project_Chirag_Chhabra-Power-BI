@@ -1,3 +1,8 @@
+## DASHBOARD PREVIEW
+
+<img width="1121" height="563" alt="Image of Dashboard" src="https://github.com/user-attachments/assets/9f8f91c6-3418-4da3-b657-a152aaa8ea49" />
+
+
 Business Problem
 
 Organizations often struggle to effectively monitor and evaluate their sales performance due to scattered lead data and lack of centralized reporting. Key challenges include:
